@@ -114,7 +114,7 @@ function getWeatherEmoji(weatherId) {
     case weatherId > 801 && weatherId < 810:
       return '⛅';
     default:
-      return '❓';
+      return '⛅';
   }
 }
 
