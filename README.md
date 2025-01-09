@@ -33,12 +33,12 @@ Follow these steps to set up and run the Weather App:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/ngocmaruko/weather-app-project.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd weather-app
+   cd weather-app-project
    ```
 
 3. Open the `index.html` file directly in your browser:
